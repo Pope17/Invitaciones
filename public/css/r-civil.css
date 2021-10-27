@@ -16,6 +16,7 @@ h1, h2 ,h3 {
     justify-content: center;
     padding: 50px 50px 0px 50px;
     margin: auto;
+    background-repeat: no-repeat;
 }
 
 .backs > .back-rc .title {

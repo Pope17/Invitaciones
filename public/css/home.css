@@ -9,9 +9,14 @@
 body{
     background-image: url(../img/img-fondo.jpg);
     background-attachment: fixed;
-    background-position: center center;
+    background-position: top center;
     background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    
 }
+
+
 /*Header*/
 .nav-bar{
     width: 100%;

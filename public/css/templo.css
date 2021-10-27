@@ -11,6 +11,7 @@
     margin: auto;
     padding: 50px;
     color: whitesmoke;
+    background-repeat: no-repeat;
 }
 
 .templo > .templo-content > .title {
