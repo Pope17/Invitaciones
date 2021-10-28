@@ -27,3 +27,8 @@
 .regalos > .regalos-content i {
     font-size: 5rem;
 }
+
+.numero{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
