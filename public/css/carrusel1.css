@@ -1,7 +1,7 @@
 /*Carrusel 1*/
 #conteItemsCarrusel{
     height: 50vh;
-    width: 80%;
+    width: 100%;
     overflow: hidden;
     margin: auto;
 }
